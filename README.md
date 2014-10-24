@@ -39,11 +39,20 @@ Second Week's Task
 ============================================================
 
 1、Build your first Github repository and commit your code to it
+
 Some Useful Tips:
+
   Github Tutorials:
+  
     http://en.wikipedia.org/wiki/Git_(software)
+    
   GUI Github:
+  
     https://windows.github.com/ (Official)
+    
     http://msysgit.github.io/ (Recommended)
+    
 2、Commit code to your exercise code
+
     Recommend Website:http://codingbat.com/java
+    
